@@ -67,7 +67,7 @@ Crie um glossário com os principais termos citados nas fontes. Para cada termo,
 Resposta: 
 Com base no material fornecido, aqui está um glossário com os principais termos de finanças pessoais, suas definições simplificadas e exemplos de aplicação:
 
-### **Glossário de Finanças Pessoais**
+ **Glossário de Finanças Pessoais**
 
 *   **Amortização**
     *   **Definição:** É o processo de redução gradual do valor de uma dívida através de pagamentos periódicos.
@@ -139,7 +139,7 @@ Com base nas fontes, elabore um plano prático de 30 dias para melhorar a organi
 Resposta: 
 Com base nas lições das fontes, este plano de 30 dias foca na mudança de mentalidade, organização prática de gastos e proteção do patrimônio.
 
-### **Semana 1: Diagnóstico e Autoconhecimento (Mentalidade)**
+ **Semana 1: Diagnóstico e Autoconhecimento (Mentalidade)**
 *   **Dia 1:** Faça um **diagnóstico honesto** da sua situação, anotando idade, renda média e gastos familiares.
 *   **Dia 2:** Identifique seu **perfil comportamental** (conservador, moderado ou arrojado) para entender como as emoções afetam suas decisões.
 *   **Dia 3:** Calcule o seu **Patrimônio Mínimo de Sobrevivência (PMS)**, que deve ser equivalente a pelo menos 6 vezes o seu consumo mensal.
@@ -148,7 +148,7 @@ Com base nas lições das fontes, este plano de 30 dias foca na mudança de ment
 *   **Dia 6:** Categorize seus gastos em cinco grupos: **fixos, variáveis, extras, lazer e metas**.
 *   **Dia 7:** Reúna a família para alinhar objetivos e estabelecer um ranking de prioridades de bem-estar.
 
-### **Semana 2: Otimização e Cortes Estratégicos**
+ **Semana 2: Otimização e Cortes Estratégicos**
 *   **Dia 8:** Adote a regra de **"pagar-se primeiro"**, separando pelo menos 10% da renda assim que ela cair na conta.
 *   **Dia 9:** Revise e **cancele tarifas bancárias** e anuidades de cartão de crédito; utilize contas digitais gratuitas.
 *   **Dia 10:** Analise assinaturas de TV a cabo e streaming; mantenha apenas o que realmente utiliza.
@@ -158,7 +158,7 @@ Com base nas lições das fontes, este plano de 30 dias foca na mudança de ment
 *   **Dia 14:** Diferencie desejos de necessidades; se for um desejo, adie a compra para avaliar racionalmente.
 *   **Dia 15:** Estabeleça um **plano de 90 dias** (trimestral) para metas de curto prazo, como viagens ou cursos.
 
-### **Semana 3: Gestão de Dívidas e Reserva de Emergência**
+ **Semana 3: Gestão de Dívidas e Reserva de Emergência**
 *   **Dia 16:** Liste todas as suas dívidas, detalhando credor, saldo devedor e a **taxa de juros (CET)**.
 *   **Dia 17:** Se possuir dívidas caras (cheque especial ou rotativo), busque **substituí-las** por modalidades mais baratas, como crédito consignado ou em cooperativas.
 *   **Dia 18:** Entre em contato com credores para renegociar prazos e buscar descontos para quitação à vista.
@@ -168,7 +168,7 @@ Com base nas lições das fontes, este plano de 30 dias foca na mudança de ment
 *   **Dia 22:** Busque formas de **renda extra** (venda de itens usados, prestação de serviços ou bicos) para acelerar a quitação de débitos.
 *   **Dia 23:** Estude o conceito de **juros compostos** para entender como o tempo trabalha a favor do seu enriquecimento.
 
-### **Semana 4: Segurança e Manutenção do Plano**
+ **Semana 4: Segurança e Manutenção do Plano**
 *   **Dia 24:** Blinde seu CPF ativando a **autenticação em dois fatores** em todos os apps e monitorando o sistema **Registrato** do Banco Central.
 *   **Dia 25:** Utilize ferramentas como o "BC Protege Mais" para bloquear a abertura indevida de novas contas em seu nome.
 *   **Dia 26:** Avalie a necessidade de **seguros** (vida, automóvel, residencial) para garantir a dignidade da família em casos de infortúnio.
