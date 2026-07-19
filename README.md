@@ -1,4 +1,4 @@
-Caderno Temático Finanças 
+### Caderno Temático Finanças 
 
 Objetivo:
 Criar um caderno temático sobre Finanças Pessoais no NotebookLM, reunindo informações de fontes confiáveis para organizar o aprendizado, gerar resumos, construir um glossário de conceitos e desenvolver prompts reutilizáveis.
