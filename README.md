@@ -132,11 +132,44 @@ Com base no material fornecido, aqui está um glossário com os principais termo
     *   **Definição:** É a prática ilegal de condicionar a venda de um produto ou serviço à compra obrigatória de outro.
     *   **Exemplo:** Um gerente de banco dizer que só libera o seu empréstimo se você contratar também um título de capitalização ou seguro de vida.
 
-Prompt 3: 
+Prompt 3: Com base nas fontes, elabore um plano prático de 30 dias para melhorar a organização financeira de uma pessoa.
 
-Resposta: 
+Resposta: Com base nas lições das fontes, este plano de 30 dias foca na mudança de mentalidade, organização prática de gastos e proteção do patrimônio.
 
-Miniguia de Estudo:
-Resumos estruturados do assunto;
-Um glossário com os principais conceitos aprendidos;
-Um conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema.
+### **Semana 1: Diagnóstico e Autoconhecimento (Mentalidade)**
+*   **Dia 1:** Faça um **diagnóstico honesto** da sua situação, anotando idade, renda média e gastos familiares.
+*   **Dia 2:** Identifique seu **perfil comportamental** (conservador, moderado ou arrojado) para entender como as emoções afetam suas decisões.
+*   **Dia 3:** Calcule o seu **Patrimônio Mínimo de Sobrevivência (PMS)**, que deve ser equivalente a pelo menos 6 vezes o seu consumo mensal.
+*   **Dia 4:** Comece a **anotar cada gasto**, seja em papel, planilha ou aplicativos como GuiaBolso ou Mobills.
+*   **Dia 5:** Descubra quanto você ganha por hora para dar uma nova perspectiva ao valor das suas compras.
+*   **Dia 6:** Categorize seus gastos em cinco grupos: **fixos, variáveis, extras, lazer e metas**.
+*   **Dia 7:** Reúna a família para alinhar objetivos e estabelecer um ranking de prioridades de bem-estar.
+
+### **Semana 2: Otimização e Cortes Estratégicos**
+*   **Dia 8:** Adote a regra de **"pagar-se primeiro"**, separando pelo menos 10% da renda assim que ela cair na conta.
+*   **Dia 9:** Revise e **cancele tarifas bancárias** e anuidades de cartão de crédito; utilize contas digitais gratuitas.
+*   **Dia 10:** Analise assinaturas de TV a cabo e streaming; mantenha apenas o que realmente utiliza.
+*   **Dia 11:** Crie uma lista de compras antes de ir ao supermercado e **nunca vá com fome** para evitar compras por impulso.
+*   **Dia 12:** Implemente uma **"gincana de economia"** doméstica para reduzir contas de luz, água e gás.
+*   **Dia 13:** Evite o uso do cartão de crédito para compras não planejadas e lembre-se que limite não é renda.
+*   **Dia 14:** Diferencie desejos de necessidades; se for um desejo, adie a compra para avaliar racionalmente.
+*   **Dia 15:** Estabeleça um **plano de 90 dias** (trimestral) para metas de curto prazo, como viagens ou cursos.
+
+### **Semana 3: Gestão de Dívidas e Reserva de Emergência**
+*   **Dia 16:** Liste todas as suas dívidas, detalhando credor, saldo devedor e a **taxa de juros (CET)**.
+*   **Dia 17:** Se possuir dívidas caras (cheque especial ou rotativo), busque **substituí-las** por modalidades mais baratas, como crédito consignado ou em cooperativas.
+*   **Dia 18:** Entre em contato com credores para renegociar prazos e buscar descontos para quitação à vista.
+*   **Dia 19:** Calcule o valor necessário para sua **Reserva de Emergência** (entre 6 a 12 meses do seu custo de vida).
+*   **Dia 20:** Faça o seu primeiro aporte na reserva em um investimento de **liquidez diária** e baixo risco, como Tesouro Selic.
+*   **Dia 21:** Identifique o que são **ativos** (colocam dinheiro no bolso) e **passivos** (retiram dinheiro) em seu patrimônio.
+*   **Dia 22:** Busque formas de **renda extra** (venda de itens usados, prestação de serviços ou bicos) para acelerar a quitação de débitos.
+*   **Dia 23:** Estude o conceito de **juros compostos** para entender como o tempo trabalha a favor do seu enriquecimento.
+
+### **Semana 4: Segurança e Manutenção do Plano**
+*   **Dia 24:** Blinde seu CPF ativando a **autenticação em dois fatores** em todos os apps e monitorando o sistema **Registrato** do Banco Central.
+*   **Dia 25:** Utilize ferramentas como o "BC Protege Mais" para bloquear a abertura indevida de novas contas em seu nome.
+*   **Dia 26:** Avalie a necessidade de **seguros** (vida, automóvel, residencial) para garantir a dignidade da família em casos de infortúnio.
+*   **Dia 27:** Comece a estudar investimentos básicos, focando no tripé: **liquidez, rentabilidade e segurança**.
+*   **Dia 28:** Planeje sua **Independência Financeira** (quando os rendimentos cobrem as despesas) em vez de focar apenas na aposentadoria tradicional.
+*   **Dia 29:** Projete seu fluxo de caixa para os próximos 12 meses para antecipar picos de gastos (como IPTU e IPVA).
+*   **Dia 30:** Celebre as pequenas vitórias com a família e lembre-se que o orçamento é uma **trilha de liberdade**, não um trilho que te engessa.
