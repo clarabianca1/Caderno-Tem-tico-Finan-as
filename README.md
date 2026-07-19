@@ -10,43 +10,44 @@ https://youtu.be/NZByH21Y7mA?is=k8Fx0H4od5qAyZWc
 
 
 ### **Teste de prompts:**
-**Prompt 1:** Faça um resumo completo deste material, destacando os principais conceitos, estratégias e boas práticas de finanças pessoais. Organize a resposta por tópicos.
+**Prompt 1:** 
+Faça um resumo completo deste material, destacando os principais conceitos, estratégias e boas práticas de finanças pessoais. Organize a resposta por tópicos.
 
 Resposta: 
 Este material oferece um guia abrangente sobre educação financeira, abordando desde a mudança de mentalidade até ferramentas práticas para controle de gastos e proteção contra fraudes. A educação financeira não é apenas sobre economizar dinheiro, mas sobre o comportamento humano e o planejamento para realizar sonhos.
 
 Abaixo, os principais conceitos e estratégias organizados por tópicos:
 
-### 1. Fundamentos Comportamentais e Mentalidade
+ 1. Fundamentos Comportamentais e Mentalidade
 *   **O Alicerce:** O sucesso financeiro depende de **disciplina, determinação e honestidade** (evitando o autoengano sobre a própria realidade).
 *   **Conheça seu Perfil:** Identifique se você é conservador, moderado ou arrojado para adequar seus investimentos e evitar decisões que tirem seu sono.
 *   **Decisão Racional vs. Emocional:** A maioria das decisões ruins é baseada em emoções (como euforia ou carência). É essencial "respirar" por alguns segundos antes de compras ou transferências para sair do "sequestro emocional".
 *   **Trabalho como Fonte de Riqueza:** O trabalho enobrece e é a principal fonte de renda. O enriquecimento gradual vem do conhecimento e da persistência, e não de "dinheiro fácil".
 
-### 2. Organização e Orçamento Pessoal
+ 2. Organização e Orçamento Pessoal
 *   **Anote Tudo:** Registre cada centavo que entra e sai, seja em papel, planilhas (como Excel) ou aplicativos.
 *   **Categorização de Gastos:** Divida suas despesas em cinco categorias: **fixas** (aluguel, internet), **variáveis** (luz, supermercado), **extras** (imprevistos), **lazer** e **metas/objetivos**.
 *   **Fluxo de Caixa:** O objetivo é que o fluxo seja positivo. Se for negativo, você está se tornando escravo dos juros.
 *   **Regra de Ouro (Pague-se Primeiro):** Separe pelo menos **10% de sua renda** assim que recebê-la, tratando isso como um "boleto da sua vida".
 
-### 3. Gestão de Dívidas
+ 3. Gestão de Dívidas
 *   **Prioridade Total:** Quitar dívidas é mais urgente do que começar a investir, pois os juros da dívida geralmente são muito superiores ao lucro de qualquer investimento.
 *   **Estratégia de Guerra:** Se estiver endividado, reúna a família, corte gastos radicais por um período curto (4 a 5 meses) e foque em estancar a saída de dinheiro.
 *   **Substituição de Dívidas:** Troque dívidas caras (cheque especial, rotativo do cartão) por modalidades mais baratas (empréstimo consignado ou crédito em cooperativas).
 *   **Amortização:** Se tiver financiamentos longos (como imobiliário), use sobras para amortizar o saldo devedor, o que reduz drasticamente o tempo e os juros pagos.
 
-### 4. Reserva de Emergência e Segurança
+ 4. Reserva de Emergência e Segurança
 *   **Reserva de Emergência:** É o primeiro passo para a paz. Deve cobrir entre **6 a 12 meses** do seu custo de vida e ser usada apenas para imprevistos reais (saúde, perda de emprego).
 *   **Proteção Patrimonial:** Seguros (vida, automóvel, residencial) não são luxo, mas garantias de dignidade para a família em casos de infortúnios.
 *   **Múltiplas Fontes de Renda:** Não dependa de um único salário. Busque rendas extras ou rendas passivas (aluguéis, dividendos, direitos autorais).
 
-### 5. Investimentos e Independência Financeira
+ 5. Investimentos e Independência Financeira
 *   **Poupar vs. Investir:** Poupar é deixar de consumir; investir é fazer o dinheiro render acima da inflação, multiplicando o capital.
 *   **Tripé do Investimento:** Avalie sempre a **liquidez** (facilidade de resgate), **rentabilidade** (ganho) e **segurança** (risco).
 *   **Diversificação:** Não coloque todos os ovos na mesma cesta. Tenha entre 7 a 8 ativos diferentes para equilibrar o risco.
 *   **Independência Financeira:** Ocorre quando o rendimento dos seus investimentos é suficiente para cobrir todas as suas despesas mensais sem depender de trabalho.
 
-### 6. Direitos do Consumidor e Prevenção a Fraudes
+ 6. Direitos do Consumidor e Prevenção a Fraudes
 *   **Proteção contra Golpes:** Desconfie de ofertas milagrosas ou urgências excessivas. Os golpistas usam gatilhos de **pressa, autoridade e escassez**.
 *   **Práticas de Segurança:** Use autenticação de dois fatores, não clique em links suspeitos e monitore seu CPF através de ferramentas do Banco Central como o **Registrato** e o **SCR**.
 *   **Direitos Básicos:**
@@ -55,7 +56,7 @@ Abaixo, os principais conceitos e estratégias organizados por tópicos:
     *   Venda casada é crime (ex: condicionar empréstimo à compra de seguro).
     *   Estacionamentos são responsáveis por itens deixados no interior dos veículos.
 
-### 7. Estratégias Práticas de Economia
+ 7. Estratégias Práticas de Economia
 *   **No Supermercado:** Vá com lista e de barriga cheia para evitar compras por impulso.
 *   **Cortes Inteligentes:** Avalie cancelar TV a cabo (trocando por streaming), renegocie planos de internet, use garrafas de água reutilizáveis e elimine anuidades de cartão.
 *   **Educação em Família:** Converse abertamente sobre dinheiro com parceiros e filhos. Use jogos lúdicos para ensinar crianças sobre escolhas financeiras desde cedo.
