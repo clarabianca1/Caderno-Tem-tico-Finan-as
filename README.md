@@ -1,16 +1,16 @@
-### Caderno Temático Finanças 
+### **Caderno Temático Finanças**
 
-Objetivo:
+**Objetivo:**
 Criar um caderno temático sobre Finanças Pessoais no NotebookLM, reunindo informações de fontes confiáveis para organizar o aprendizado, gerar resumos, construir um glossário de conceitos e desenvolver prompts reutilizáveis.
 
-Fontes Utilizadas:
+**Fontes Utilizadas:**
 Áudio livro O Homem mais rico da Babilônia: 
 https://youtu.be/NZByH21Y7mA?is=k8Fx0H4od5qAyZWc
 
 
 
-Teste de prompts:
-Prompt 1: Faça um resumo completo deste material, destacando os principais conceitos, estratégias e boas práticas de finanças pessoais. Organize a resposta por tópicos.
+### **Teste de prompts:**
+**Prompt 1:** Faça um resumo completo deste material, destacando os principais conceitos, estratégias e boas práticas de finanças pessoais. Organize a resposta por tópicos.
 
 Resposta: 
 Este material oferece um guia abrangente sobre educação financeira, abordando desde a mudança de mentalidade até ferramentas práticas para controle de gastos e proteção contra fraudes. A educação financeira não é apenas sobre economizar dinheiro, mas sobre o comportamento humano e o planejamento para realizar sonhos.
@@ -60,7 +60,7 @@ Abaixo, os principais conceitos e estratégias organizados por tópicos:
 *   **Cortes Inteligentes:** Avalie cancelar TV a cabo (trocando por streaming), renegocie planos de internet, use garrafas de água reutilizáveis e elimine anuidades de cartão.
 *   **Educação em Família:** Converse abertamente sobre dinheiro com parceiros e filhos. Use jogos lúdicos para ensinar crianças sobre escolhas financeiras desde cedo.
 
-Prompt 2: 
+**Prompt 2:**
 Crie um glossário com os principais termos citados nas fontes. Para cada termo, apresente uma definição simples e um exemplo de aplicação.
 
 Resposta: 
@@ -132,9 +132,11 @@ Com base no material fornecido, aqui está um glossário com os principais termo
     *   **Definição:** É a prática ilegal de condicionar a venda de um produto ou serviço à compra obrigatória de outro.
     *   **Exemplo:** Um gerente de banco dizer que só libera o seu empréstimo se você contratar também um título de capitalização ou seguro de vida.
 
-Prompt 3: Com base nas fontes, elabore um plano prático de 30 dias para melhorar a organização financeira de uma pessoa.
+**Prompt 3:** 
+Com base nas fontes, elabore um plano prático de 30 dias para melhorar a organização financeira de uma pessoa.
 
-Resposta: Com base nas lições das fontes, este plano de 30 dias foca na mudança de mentalidade, organização prática de gastos e proteção do patrimônio.
+Resposta: 
+Com base nas lições das fontes, este plano de 30 dias foca na mudança de mentalidade, organização prática de gastos e proteção do patrimônio.
 
 ### **Semana 1: Diagnóstico e Autoconhecimento (Mentalidade)**
 *   **Dia 1:** Faça um **diagnóstico honesto** da sua situação, anotando idade, renda média e gastos familiares.
